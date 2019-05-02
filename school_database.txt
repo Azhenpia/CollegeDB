@@ -1,0 +1,100 @@
+Princeton University, NJ, 4.36, 737, 721, 1, 47140
+Harvard University, MA, 4.33, 726, 708, 1, 50420
+Columbia University, NY, 4.29, 732, 710, 1, 59430
+Massachusetts Institute of Technology, MA, 4.31, 751, 718, 1, 51832
+University of Chicago, IL, 4.29, 722, 709, 1, 57006
+Yale UniversityH, CT, 4.35, 728, 712, 1, 53430
+Stanford University, CA, 4.31, 729, 704, 1, 51354
+Duke University, NC, 4.36, 725, 704, 1, 55960
+University of Pennsylvania, PA, 4.30, 729, 706, 1, 55584
+Johns Hopkins University, MD, 4.26, 728, 706, 1, 53740
+Northwestern University, IL, 4.28, 733, 710, 1, 54567
+California Institute of Technology, CA, 4.30, 757, 721, 1, 52362
+Dartmouth College, NH, 4.28, 731, 714, 1, 55035
+Brown University, RI, 4.31, 723, 708, 1, 55656
+Vanderbilt University, TN, 4.27, 722, 701, 1, 49816
+Cornell University, NY, 4.28, 733, 706, 1, 55188
+Rice University, TX, 4.30, 729, 702, 1, 47350
+University of Notre Dame, IN, 4.19, 710, 692, 1, 53391
+University of California--Los Angeles, CA, 4.11, 693, 670, 0, 41294, 13280
+Washington University in St. Louis, MO, 4.25, 723, 702, 1, 53399
+Emory University, GA, 4.23, 716, 693, 1, 51306
+Georgetown University, DC, 4.22, 697, 695, 1, 54104
+University of California--Berkeley, CA, 4.20, 716, 688, 0, 43232, 14240
+University of Southern California, CA, 4.11, 699, 675, 1, 56225
+Carnegie Mellon University, PA, 4.27, 748, 712, 1, 55465
+University of Virginia, VA, 4.22, 705, 695, 0, 48891, 17350
+Tufts University, MA, 4.24, 721, 704, 1, 56382
+University of Michigan--Ann Arbor, MI, 4.15, 718, 687, 0, 49350, 15262
+Wake Forest University, NC, 4.23, 677, 667, 1, 53322
+New York University, NY, 4.03, 678, 665, 1, 51828
+University of California--Santa Barbara, CA, 4.00, 666, 651, 0, 42486, 14472
+University of North Carolina--Chapel Hill, NC, 4.31, 681, 673, 0, 35169, 8986
+University of California--Irvine, CA, 3.98, 666, 644, 0, 43530, 15516
+University of Rochester, NY, 4.13, 710, 671, 1, 53926
+Brandeis University, MA, 4.07, 675, 679, 1, 55395
+Georgia Institute of Technology, GA, 4.22, 730, 688, 0, 33020, 12424
+University of Florida, FL, 4.23, 648, 649, 0, 28658, 6381
+Boston College, MA, 4.12, 695, 686, 1, 55464
+College of William and Mary, VA, 4.18, 687, 689, 0, 44701, 21830
+University of California--Davis, CA, 4.01, 679, 653, 0, 43458, 14463
+University of California--San Diego, CA, 4.09, 691, 663, 0, 42074, 14060
+Boston University, MA, 4.08, 679, 667, 1, 53938
+Case Western Reserve University, OH, 4.21, 722, 696, 1, 49042
+Northeastern University, MA, 4.15, 702, 685, 1, 51387
+Tulane University, LA, 4.12, 690, 691, 1, 53932
+Pepperdine University, CA, 3.94, 642, 633, 1, 53932
+University of Georgia, GA, 3.97, 643, 645, 0, 30404, 11830
+University of Illinois--Urbana-Champaign, IL, 4.11, 716, 667, 0, 32568, 15998
+Rensselaer Polytechnic Institute, NY, 4.10, 726, 689, 1, 53880
+University of Texas--Austin, TX, 4.13, 678, 660, 0, 37480, 10606
+University of Wisconsin--Madison, WI, 4.01, 712, 672, 0, 36805, 10555
+Villanova University, PA, 4.07, 676, 663, 1, 53458
+Lehigh University, PA, 4.11, 708, 681, 1, 52930
+Syracuse University, NY, 3.83, 637, 640, 1, 51853
+University of Miami, FL, 4.11, 649, 645, 1, 50226
+Ohio State University--Columbus, OH, 3.94, 666, 652, 0, 30742, 10726
+Purdue University--West Lafayette, IN, 4.07, 702, 662, 0, 28804, 10002
+Rutgers University--New Brunswick, NJ, 3.90, 660, 638, 0, 31282, 14974
+Pennsylvania State University--University Park, PA, 3.90, 648, 637, 0, 34858, 18454
+Southern Methodist University, TX, 4.11, 669, 646, 1, 54493
+University of Washington, WA, 4.02, 680, 661, 0, 36898, 11517
+Worcester Polytechnic Institute, MA, 4.15, 727, 684, 1, 50530
+George Washington University, DC, 4.06, 657, 662, 1, 55230
+University of Connecticut, CT, 3.89, 645, 640, 0, 38098, 15730
+University of Maryland--College Park, MD, 4.06, 678, 659, 0, 35216, 10595
+Brigham Young University--Provo, UT, 4.00, 653, 684, 1, 5620
+Clark University, MA, 4.00, 623, 653, 1, 45730
+Clemson University, SC, 4.10, 647, 635, 0, 36724, 14970
+Texas A&M University--College Station, TX, 3.96, 638, 622, 0, 36636, 10968
+Florida State University, FL, 4.02, 604, 621, 0, 21673, 6507
+Fordham University, NY, 4.02, 671, 662, 1, 52248
+Stevens Institute of Technology, NJ, 4.13, 693, 666, 1, 52202
+University of California--Santa Cruz, CA, 3.88, 638, 634, 0, 41963, 13949
+University of Massachusetts--Amherst, MA, 3.90, 652, 640, 0, 34570, 15887
+University of Pittsburgh, PA, 3.98, 663, 656, 0, 32052, 19080
+University of Minnesota--Twin Cities, MN, 3.95, 695, 657, 0, 30371, 14693
+Virginia Tech, VA, 4.02, 682, 653, 0, 31304, 13620
+American University, DC, 4.02, 649, 673, 1, 48459
+Baylor University, TX, 4.00, 624, 621, 1, 45542
+Binghamton University--SUNY, NY, 3.95, 665, 655, 0, 24488, 9808
+Colorado School of Mines, CO, 4.24, 709, 676, 0, 38584, 18964
+North Carolina State University--Raleigh, NC, 4.16, 654, 641, 0, 28444, 9101
+Stony Brook University--SUNY, NY, 3.91, 654, 639, 0, 26934, 9624
+Texas Christian University, TX, 3.92, 625, 616, 1, 46950
+Yeshiva University, NY, 4.08, 640, 713, 1, 43500
+Michigan State University, MI, 3.77, 647, 625, 0, 39750, 14460
+University of California--Riverside, CA, 3.81, 633, 622, 0, 42879, 13887
+University of San Diego, CA, 3.91, 630, 620, 1, 49358
+Howard University, DC, 3.60, 561, 599, 1, 26756
+Indiana University--Bloomington, IN, 3.84, 647, 645, 0, 35456, 10681
+Loyola University Chicago, IL, 3.91, 625, 645, 1, 44048
+Marquette University, WI, 3.74, 626, 624, 1, 41870
+University at Buffalo--SUNY, NY, 3.71, 636, 622, 0, 27758, 10028
+University of Delaware, DE, 3.80, 623, 620, 0, 34310, 13680
+University of Iowa, IA, 3.80, 620, 628, 0, 30609, 8965
+Illinois Institute of Technology, IL, 4.13, 665, 648, 1, 47646
+Miami University--Oxford, OH, 3.90, 659, 645, 0, 33577, 14825
+University of Colorado--Boulder, CO, 3.85, 658, 644, 0, 37288, 12534
+University of Denver, CO, 3.85, 627, 648, 1, 50556
+University of San Francisco, CA, 3.84, 604, 620, 1, 48066
